@@ -1,4 +1,4 @@
-﻿CountryName,CountryCode,Region,IsEEA,IsAdequacy,RiskLevel,Description
+﻿CountryName,CountryCode,Region,IsEEA,IsAdequacy,CountryRiskLevel,Description
 Algeria,DZ,Africa,False,False,Medium,No Adequacy Decision (additional safeguards required)
 Angola,AO,Africa,False,False,Medium,No Adequacy Decision (additional safeguards required)
 Benin,BJ,Africa,False,False,Medium,No Adequacy Decision (additional safeguards required)
